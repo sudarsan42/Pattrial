@@ -1,9 +1,14 @@
-ARRANGEMENT OF SECTIONS
-CHAPTER I
-PRELIMINARY
+#ARRANGEMENT OF SECTIONS
+
+##CHAPTER I
+
+###PRELIMINARY
+
 1. Short title, extent and commencement
 2. Definitions and interpretation
-CHAPTER II
+
+##CHAPTER II
+
 INVENTIONS NOT PATENTABLE
 3. What are not inventions
 4. Inventions relating to atomic energy not patentable
