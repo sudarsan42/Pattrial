@@ -1,5 +1,5 @@
 <h1 align=center>ARRANGEMENT OF SECTIONS</h1>
-
+<p>
 <h2 align=center><u>CHAPTER I</u><br>
 PRELIMINARY</h2><br>
 1\. Short title, extent and commencement  
@@ -9,7 +9,7 @@ INVENTIONS NOT PATENTABLE</h2><br>
 3\. What are not inventions  
 4\. Inventions relating to atomic energy not patentable  
 5\. *\[Omitted by the Patents \(Amendment\) Act, 2005\]*  
-<h2 ALIGN=CENTER><u>CHAPTER III</u><br>    
+<h2 ALIGN=CENTER><u>CHAPTER III</u><br>
 APPLICATIONS FOR PATENTS</h2><br>
 6\. Persons entitled to apply for patents  
 7\. Form of application  
@@ -93,7 +93,7 @@ RESTORATION OF LAPSED PATENTS</h2><br>
 61\. Procedure for disposal of applications for restoration of lapsed patents  
 62\. Rights of Patentees of lapsed patents which have been restored.  
 <h2 ALIGN=CENTER><u>CHAPTER XII</u><br>
-SURRENDER AND REVOCATION OF PATENTS</h2<br>
+SURRENDER AND REVOCATION OF PATENTS</h2><br>
 63\. Surrender of patents  
 64\. Revocation of patents  
 65\. Revocation of patent or amendment of complete specification on directions from Government in cases relating to atomic energy  
@@ -106,7 +106,7 @@ REGISTER OF PATENTS</h2><br>
 70\. Power of registered grantee or proprietor to deal with patent  
 71\. Rectification of register by Appellate Board  
 72\. Register to be open for inspection  
-<h2 ALIGN=CENTER><u>CHAPTER XIV</u><br>  
+<h2 ALIGN=CENTER><u>CHAPTER XIV</u><br>
 PATENT OFFICE AND ITS ESTABLISHMENT</h2><br>
 73\. Controller and other officers  
 74\. Patent office and its branches  
@@ -224,5 +224,5 @@ MISCELLANEOUS</h2><br>
 161\. *\[Omitted by the Patents \(Amendment\) Act, 2002\]*  
 162\. Repeal of Act 2 of 1911 in so far as it relates to patents and savings  
 163\. *\[Omitted by the Patents \(Amendment\) Act, 2005\]*  
-SCHEDULE –Amendments to the Indian Patents and Design Act, 1911  
+SCHEDULE –Amendments to the Indian Patents and Design Act, 1911</p>
 
