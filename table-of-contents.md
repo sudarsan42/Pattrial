@@ -1,10 +1,10 @@
 <h1 align=center>ARRANGEMENT OF SECTIONS</h1>
-<p>
+
 <h2 align=center><u>CHAPTER I</u><br>
 PRELIMINARY</h2><br>
 1\. Short title, extent and commencement  
 2\. Definitions and interpretation  
-<h2 align=center><u>CHAPTER II</u>  
+<h2 align=center><u>CHAPTER II</u><br>
 INVENTIONS NOT PATENTABLE</h2><br> 
 3\. What are not inventions  
 4\. Inventions relating to atomic energy not patentable  
@@ -224,5 +224,5 @@ MISCELLANEOUS</h2><br>
 161\. *\[Omitted by the Patents \(Amendment\) Act, 2002\]*  
 162\. Repeal of Act 2 of 1911 in so far as it relates to patents and savings  
 163\. *\[Omitted by the Patents \(Amendment\) Act, 2005\]*  
-SCHEDULE –Amendments to the Indian Patents and Design Act, 1911</p>
+SCHEDULE –Amendments to the Indian Patents and Design Act, 1911
 
