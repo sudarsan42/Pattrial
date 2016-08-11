@@ -1,11 +1,10 @@
 <h1 align=center>ARRANGEMENT OF SECTIONS</h1>
 
-
-__<h2 align=center>CHAPTER I</h2>__
+<u><h2 align=center>CHAPTER I</h2></u>  
 <h2 align=center>PRELIMINARY</h2>  
 1\. Short title, extent and commencement  
 2\. Definitions and interpretation  
-__<h2 align=center>CHAPTER II</h2>__  
+<h2 align=center>CHAPTER II</h2>  
 <h2 ALIGN=CENTER>INVENTIONS NOT PATENTABLE</h2>    
 3\. What are not inventions  
 4\. Inventions relating to atomic energy not patentable  
@@ -121,7 +120,7 @@ __<h2 ALIGN=CENTER>CHAPTER XV</h2>__
 80\. Exercise of discretionary powers by Controller  
 81\. Disposal by Controller of applications for extension of time  
 __<h2 ALIGN=CENTER>CHAPTER XVI</h2>__  
-<h2 ALIGN=CENTER>WORKING OF PATENTS, COMPULSORY LICENCES AND REVOCATION</h2>__  
+<h2 ALIGN=CENTER>WORKING OF PATENTS, COMPULSORY LICENCES AND REVOCATION</h2>  
 82\. Definitions of “patented articles” and “patentee”  
 83\. General principles applicable to working of patented inventions  
 84\. Compulsory licences  
