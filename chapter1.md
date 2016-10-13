@@ -1,12 +1,12 @@
 <h2 align=center><u>CHAPTER I</u><br>
 PRELIMINARY</h2><br>
-##1## **. Short title, extent and commencement.**
+##1 **. Short title, extent and commencement.**
 (1) This Act may be called the Patents Act, 1970.  
 (2) It extends to the whole of India.  
 (3) It shall come into force on such date[^1]  as the Central Government may, by notification in the Official Gazette, appoint:  
  	Provided that different dates may be appointed for different provisions of this Act, and any reference in any such provision to the commencement of this Act shall be construed as a reference to the coming into force of that provision.  
 
-##2## **. Definition and interpretation.-**
+##2 **. Definition and interpretation.-**
 (1) In this Act, unless the context otherwise requires, -  
  [^2]\[(a). "Appellate Board" means the Appellate Board referred to in section 116;]  
   <label for="mn-AppellateBoard" class="margin-toggle">&#8853;</label>
