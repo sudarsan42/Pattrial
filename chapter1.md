@@ -5,7 +5,6 @@ PRELIMINARY</h2><br>
 (2) It extends to the whole of India.  
 (3) It shall come into force on such date[^1]  as the Central Government may, by notification in the Official Gazette, appoint:  
  	Provided that different dates may be appointed for different provisions of this Act, and any reference in any such provision to the commencement of this Act shall be construed as a reference to the coming into force of that provision.  
-[^1]:The provisions of this Act, other than Ss. 12(2), 13(2), 28, 68, and 125 to 132 thereof brought into force on 20.04.1972.  
 
 **2. Definition and interpretation.-**  
 (1) In this Act, unless the context otherwise requires, -  
@@ -13,10 +12,12 @@ PRELIMINARY</h2><br>
   [(ab). "Assignee" includes an assignee of the assignee and the legal representative of a deceased assignee and references to the assignee of any person include references to the assignee of the legal representative or assignee of that person;]  
  [(aba)."Budapest Treaty" means the Budapest Treaty on the International Recognition of the Deposit of Micro-organisms for the purposes of Patent Procedure done at Budapest on 28th day of April, 1977, as amended and modified from time to time;]  
  [(ac). "Capable of industrial application", in relation to an invention, means that the invention is capable of being made or used in an industry;]  
-(b). �Controller� means the Controller General of Patents, Designs and Trade Marks referred to in section 73;  
+(b). "Controller" means the Controller General of Patents, Designs and Trade Marks referred to in section 73;  
 (c). "Convention application" means an application for a patent made by virtue of section 135;  
 [(d). "convention country" means a country or a country which is member of a group of countries or a union of countries or an Inter-governmental organization  [referred to as a convention country in section 133];]  
 (e). "District court" has the meaning assigned to that expression by the Code of Civil Procedure, 1908(5 of 1908);  
+---  
+[^1]:The provisions of this Act, other than Ss. 12(2), 13(2), 28, 68, and 125 to 132 thereof brought into force on 20.04.1972.  
 (f). "exclusive licence" means a licence from a patentee which confers on the licensee, or on the licensee and persons authorised by him, to the exclusion of all other persons (including the patentee), any right in respect of the patented invention, and "exclusive licensee" shall be construed accordingly;   
 (h). "Government undertaking" means any industrial undertaking carried on -  
     (i) by a department of the Government, or
@@ -48,6 +49,6 @@ PRELIMINARY</h2><br>
 (w). "priority date" has the meaning assigned to it by section 11;  
 (x). "register" means the register of patents referred to in section 67;  
 (y). "true and first inventor" does not include either the first importer of an invention into India, or a person to whom an invention is first communicated from outside India.  
-(2). In this Act, unless the context otherwise requires, any reference �  
+(2). In this Act, unless the context otherwise requires, any reference -  
 (a). to the Controller shall be construed as including a reference to any officer discharging the functions of the Controller in pursuance of section 73;  
 (b). to the patent office shall be construed as including a reference to any branch office of the patent office.  
