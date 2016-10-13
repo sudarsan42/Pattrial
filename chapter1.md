@@ -8,7 +8,7 @@ PRELIMINARY</h2><br>
 
 ##2. Definition and interpretation.-{#2}  
 (1) In this Act, unless the context otherwise requires, -  
- [^2]\[(a). "Appellate Board" means the Appellate Board referred to in section 116;\][^S116](../master/chapter19.md#116)  
+ [^2]\[(a). "Appellate Board" means the Appellate Board referred to in section 116;\]<sup>[S116](../master/chapter19.md#116)</sup>  
   [(ab). "Assignee" includes an assignee of the assignee and the legal representative of a deceased assignee and references to the assignee of any person include references to the assignee of the legal representative or assignee of that person;]  
  [(aba)."Budapest Treaty" means the Budapest Treaty on the International Recognition of the Deposit of Micro-organisms for the purposes of Patent Procedure done at Budapest on 28th day of April, 1977, as amended and modified from time to time;]  
  [(ac). "Capable of industrial application", in relation to an invention, means that the invention is capable of being made or used in an industry;]  
