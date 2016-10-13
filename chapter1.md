@@ -8,12 +8,7 @@ PRELIMINARY</h2><br>
 
 ##2. Definition and interpretation.-{#2}  
 (1) In this Act, unless the context otherwise requires, -  
- [^2]\[(a). "Appellate Board" means the Appellate Board referred to in section 116;]  
-  <label for="mn-AppellateBoard" class="margin-toggle">&#8853;</label>
-<input type="checkbox" id="mn-AppellateBoard" class="margin-toggle"/>
-<span class="marginnote">
-  [Section 116](../chapter19.md#116)
-</span>
+ [^2]\[(a). "Appellate Board" means the Appellate Board referred to in [section 116](../chapter19.md#116);\]  
   [(ab). "Assignee" includes an assignee of the assignee and the legal representative of a deceased assignee and references to the assignee of any person include references to the assignee of the legal representative or assignee of that person;]  
  [(aba)."Budapest Treaty" means the Budapest Treaty on the International Recognition of the Deposit of Micro-organisms for the purposes of Patent Procedure done at Budapest on 28th day of April, 1977, as amended and modified from time to time;]  
  [(ac). "Capable of industrial application", in relation to an invention, means that the invention is capable of being made or used in an industry;]  
@@ -57,3 +52,7 @@ PRELIMINARY</h2><br>
 (2). In this Act, unless the context otherwise requires, any reference -  
 (a). to the Controller shall be construed as including a reference to any officer discharging the functions of the Controller in pursuance of section 73;  
 (b). to the patent office shall be construed as including a reference to any branch office of the patent office.  
+--------
+[^1]:The provisions of this Act, other than Ss. 12(2), 13(2), 28, 68, and 125 to 132 thereof brought into force on 20.04.1972.  Ss. 12(2), 13(2), 28, 68, and 125 to 132 thereof brought into force on 01.04.1978
+[^2]:Substituted by Act 38 of 2002, S.3, for Cl. (a).  Prior to its substitution, Cl. (a) read as under:-
+“(a)” assignee” includes the legal representative of a deceased assignee, and references to the assignee of any person include references to the assignee of the legal representatives or assignee of that person.”
