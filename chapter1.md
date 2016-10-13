@@ -5,6 +5,7 @@ PRELIMINARY</h2><br>
 (2) It extends to the whole of India.  
 (3) It shall come into force on such date[^1]  as the Central Government may, by notification in the Official Gazette, appoint:  
  	Provided that different dates may be appointed for different provisions of this Act, and any reference in any such provision to the commencement of this Act shall be construed as a reference to the coming into force of that provision.  
+[^1]:The provisions of this Act, other than Ss. 12(2), 13(2), 28, 68, and 125 to 132 thereof brought into force on 20.04.1972.  
 
 **2. Definition and interpretation.-**  
 (1) In this Act, unless the context otherwise requires, -  
