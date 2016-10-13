@@ -12,7 +12,7 @@ PRELIMINARY</h2><br>
   <label for="mn-AppellateBoard" class="margin-toggle">&#8853;</label>
 <input type="checkbox" id="mn-AppellateBoard" class="margin-toggle"/>
 <span class="marginnote">
-  [Section 116](../chapter19.md#116)
+  [Section 116](../master/chapter19.md#116)
 </span>
   [(ab). "Assignee" includes an assignee of the assignee and the legal representative of a deceased assignee and references to the assignee of any person include references to the assignee of the legal representative or assignee of that person;]  
  [(aba)."Budapest Treaty" means the Budapest Treaty on the International Recognition of the Deposit of Micro-organisms for the purposes of Patent Procedure done at Budapest on 28th day of April, 1977, as amended and modified from time to time;]  
